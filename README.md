@@ -1,15 +1,15 @@
 # Intelligent-Battery-Management-System-with-Real-Time-Monitoring
 Designed an IoT-enabled Battery Management System using ESP32 for real-time monitoring of voltage, current, and temperature. Implemented battery protection features, State of Charge estimation, and a web dashboard for remote battery health monitoring.
 
-# 🔋 Intelligent Battery Management System (BMS) with Real-Time Monitoring
+# Intelligent Battery Management System (BMS) with Real-Time Monitoring
 
-## 📖 Overview
+## Overview
 
 The Intelligent Battery Management System (BMS) is an IoT-enabled battery monitoring and protection solution designed for lithium-ion battery packs. The system continuously monitors voltage, current, and temperature parameters, estimates State of Charge (SoC), performs cell balancing, and provides real-time battery health visualization through a web dashboard.
 
 ---
 
-## 🛠️ Components Used
+## Components Used
 
 - ESP32 Development Board
 - ACS712 Current Sensor
@@ -23,7 +23,7 @@ The Intelligent Battery Management System (BMS) is an IoT-enabled battery monito
 
 ---
 
-## ⚙️ Working
+## Working
 
 ### Step 1: Data Acquisition
 ESP32 reads battery voltage, current, and temperature from connected sensors.
@@ -53,7 +53,7 @@ Users can monitor battery health, voltage, current, temperature, alerts, and Sta
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 ### Hardware
 - ESP32
@@ -81,7 +81,7 @@ Users can monitor battery health, voltage, current, temperature, alerts, and Sta
 
 ---
 
-## 📊 Output
+## Output
 
 - Real-Time Battery Monitoring
 - State of Charge (SoC) Estimation
@@ -93,7 +93,7 @@ Users can monitor battery health, voltage, current, temperature, alerts, and Sta
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - State of Health (SoH) Estimation
 - Predictive Maintenance using Machine Learning
@@ -103,7 +103,7 @@ Users can monitor battery health, voltage, current, temperature, alerts, and Sta
 
 ---
 
-## 👨‍💻 Credits
+## Credits
 
 **Created By:** JP HariKrishna Raj
 
